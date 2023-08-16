@@ -1,6 +1,5 @@
 let counterElement = document.getElementById("counterValue");
 
-console.log(counterElement, "counterElementcounterElementcounterElement");
 
 function onDecrement() {
 	let previousCounterValue = counterElement.textContent;
